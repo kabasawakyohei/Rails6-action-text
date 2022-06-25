@@ -6,6 +6,7 @@ ja:
           attributes:
             base:
               content_attachment_byte_size_is_too_big: 添付ファイルは%{max_content_attachment_mega_byte_size}MG以下にしてください[%{bytes}/%{max_bytes}]
+              content_attachment_photo_count_is_too_over: 添付画像は%{max_content_attachment_photo_count}枚までにしてください
             title:
               blank: が空ですよ
               too_long: が文字数が%{count}文字を超過しています
